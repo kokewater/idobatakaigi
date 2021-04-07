@@ -1,6 +1,6 @@
 # React Starter Kit in TypeScript
 
-##Udemyのコースの学習用
+## Udemyのコースの学習用
 「Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！」
 
 ## Node のインストール方法
