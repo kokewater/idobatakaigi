@@ -1,5 +1,8 @@
 # React Starter Kit in TypeScript
 
+##Udemyのコースの学習用
+「Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！」
+
 ## Node のインストール方法
 
 本アプリケーションは [Node.js](https://nodejs.org/) を前提としています。macOS の場合だと以下の手順で導入できます。Node のバージョンは`.node-version`を参照し、同じものを使用してください。
